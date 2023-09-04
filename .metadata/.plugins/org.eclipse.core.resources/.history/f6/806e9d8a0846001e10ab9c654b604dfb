@@ -1,0 +1,13 @@
+package com.packt.cardatabase.service;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class JwtService {
+	// 토큰 만료 시간 - 1일을 밀리초로 변경
+	static final long EXPIRATIOTIME = 86400000;
+
+	// 토큰의 접두사 지정 
+	static final String PREFIX = "Bearer";
+	
+}

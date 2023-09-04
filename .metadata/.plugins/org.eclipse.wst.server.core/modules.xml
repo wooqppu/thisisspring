@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:wave-books" serverId="apache-tomcat-9.0.46 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:controller" serverId="apache-tomcat-9.0.46 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:ex01" serverId="apache-tomcat-9.0.46 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:ex03" serverId="apache-tomcat-9.0.46 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:ex02" serverId="apache-tomcat-9.0.46 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:ex04" serverId="apache-tomcat-9.0.46 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:ex05_security" serverId="apache-tomcat-9.0.46 at localhost"/>
+</modules>
